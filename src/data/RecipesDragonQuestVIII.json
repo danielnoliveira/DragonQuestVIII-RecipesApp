@@ -1,0 +1,1622 @@
+{
+    "images": {
+        "Assassin's dagger": "https://dragon-quest.org/images/thumb/7/77/DQVIII_Assassins_Dagger.png/200px-DQVIII_Assassins_Dagger.png",
+        "Eagle dagger": "https://dragon-quest.org/images/thumb/6/60/EagleDagger.png/200px-EagleDagger.png",
+        "Poison needle": "https://dragon-quest.org/images/thumb/b/b3/PoisonNeedle.png/200px-PoisonNeedle.png",
+        "Bandit axe": "https://dragon-quest.org/images/thumb/1/17/BanditsAxe.png/180px-BanditsAxe.png",
+        "Battle axe": "https://dragon-quest.org/images/thumb/6/63/BattleAxe.png/190px-BattleAxe.png",
+        "Thief's Key": "https://dragon-quest.org/images/thumb/b/b5/DQVIIIThiefsKey.png/160px-DQVIIIThiefsKey.png",
+        "Beast talon": "https://dragon-quest.org/images/thumb/9/98/DQ8-Beast_Talon.png/210px-DQ8-Beast_Talon.png",
+        "Beast claws": "https://dragon-quest.org/images/thumb/9/9b/Beast_claws_modern_art.png/200px-Beast_claws_modern_art.png",
+        "Ethereal stone": "https://dragon-quest.org/images/thumb/0/0c/DQVIII_Cowpat.png/90px-DQVIII_Cowpat.png",
+        "Blizzard blade": "https://dragon-quest.org/images/thumb/8/88/BlizzardBlade.png/160px-BlizzardBlade.png",
+        "Bastard sword": "https://dragon-quest.org/images/thumb/c/ce/Bastard_Sword.png/200px-Bastard_Sword.png",
+        "Icicle dirk": "https://dragon-quest.org/images/thumb/4/4c/IcicleDirk.png/200px-IcicleDirk.png",
+        "Cold cheese": "https://dragon-quest.org/images/thumb/0/0b/AngelCheese.png/120px-AngelCheese.png",
+        "Cheiron's bow": "https://dragon-quest.org/images/thumb/8/81/CheironsBow.png/200px-CheironsBow.png",
+        "Eros' bow": "https://dragon-quest.org/images/thumb/7/7a/ErosBow.png/220px-ErosBow.png",
+        "Power shield": "https://dragon-quest.org/images/thumb/7/71/DVIIIPowerShield.png/250px-DVIIIPowerShield.png",
+        "Cobra claw": "https://dragon-quest.org/images/thumb/a/ac/Cobra_claw_modern_art.png/250px-Cobra_claw_modern_art.png",
+        "Fire claw": "https://dragon-quest.org/images/thumb/3/3c/Fire_claws_modern_artwork.png/200px-Fire_claws_modern_artwork.png",
+        "Devil's tail": "https://dragon-quest.org/images/thumb/d/df/DQVIIIDevilsTail.png/150px-DQVIIIDevilsTail.png",
+        "Copper sword": "https://dragon-quest.org/images/thumb/2/27/Copper_Sword.png/210px-Copper_Sword.png",
+        "Bronze knife": "https://dragon-quest.org/images/thumb/4/42/DQVIII_Bronze_Knife.png/200px-DQVIII_Bronze_Knife.png",
+        "Demon spear": "https://dragon-quest.org/images/thumb/8/80/DemonSpear.png/250px-DemonSpear.png",
+        "Battle fork": "https://dragon-quest.org/images/thumb/7/73/BattleFork.png/220px-BattleFork.png",
+        "Demon whip": "https://dragon-quest.org/images/thumb/7/7b/DemonWhip.png/80px-DemonWhip.png",
+        "Scourge whip": "https://dragon-quest.org/images/thumb/1/18/ScourgeWhip.png/200px-ScourgeWhip.png",
+        "Double-edged sword": "https://dragon-quest.org/images/thumb/b/b5/DoubleEdgedSword.png/200px-DoubleEdgedSword.png",
+        "Über double-edge": "https://dragon-quest.org/images/thumb/7/7b/UberDoubleEdge.png/190px-UberDoubleEdge.png",
+        "Dragon slayer": "https://dragon-quest.org/images/thumb/f/fb/DragonSlayer.png/180px-DragonSlayer.png",
+        "Dragonsbane": "https://dragon-quest.org/images/thumb/f/f4/Dragonsbane.png/210px-Dragonsbane.png",
+        "Mighty armlet": "https://dragon-quest.org/images/thumb/4/4f/DQVIII_Mighty_Armlet.png/200px-DQVIII_Mighty_Armlet.png",
+        "Dragonlord claw": "https://dragon-quest.org/images/thumb/2/2d/Dragonlord_claw.png/215px-Dragonlord_claw.png",
+        "Dragon claws": "https://dragon-quest.org/images/thumb/1/1c/Dragon_claws_modern_artwork.png/190px-Dragon_claws_modern_artwork.png",
+        "Dragontail whip": "https://dragon-quest.org/images/thumb/8/88/DragontailWhip.png/290px-DragontailWhip.png",
+        "Snakeskin whip": "https://dragon-quest.org/images/thumb/e/e2/SnakeskinWhip.png/350px-SnakeskinWhip.png",
+        "Dragon's scale": "https://dragon-quest.org/images/thumb/2/2b/DragonScaleArt.png/180px-DragonScaleArt.png",
+        "Dragovian king sword": "https://dragon-quest.org/images/thumb/4/4d/Dragovian_equipment_set_3ds.JPG/300px-Dragovian_equipment_set_3ds.JPG",
+        "Dragovian sword": "https://dragon-quest.org/images/thumb/4/4d/Dragovian_equipment_set_3ds.JPG/300px-Dragovian_equipment_set_3ds.JPG",
+        "Liquid metal sword": "https://dragon-quest.org/images/thumb/2/24/LiquidMetalSword.png/200px-LiquidMetalSword.png",
+        "Erdrick's sword": "https://dragon-quest.org/images/thumb/8/85/DQ_Museum_Erdrick_Equipment.png/350px-DQ_Museum_Erdrick_Equipment.png",
+        "Ye Olde Sword of Erdrick": "https://dragon-quest.org/images/thumb/8/85/DQ_Museum_Erdrick_Equipment.png/350px-DQ_Museum_Erdrick_Equipment.png",
+        "Orichalcum": "https://dragon-quest.org/images/thumb/8/80/Orichalcum.png/180px-Orichalcum.png",
+        "Hunter's bow": "https://dragon-quest.org/images/thumb/b/b6/HuntersBow.png/200px-HuntersBow.png",
+        "Garter": "https://dragon-quest.org/images/thumb/5/5c/DQVIIIGarter.png/200px-DQVIIIGarter.png",
+        "Falcon knife": "https://dragon-quest.org/images/thumb/9/98/FalconKnife.png/205px-FalconKnife.png",
+        "Slime earrings": "https://dragon-quest.org/images/thumb/6/6d/DQVIIISlimeEarrings.png/200px-DQVIIISlimeEarrings.png",
+        "Tough guy tattoo": "https://dragon-quest.org/images/thumb/0/0f/DQVIIIToughGuyTattoo.png/200px-DQVIIIToughGuyTattoo.png",
+        "Agility ring": "https://dragon-quest.org/images/thumb/7/76/DQVIIIAgilityRing.png/140px-DQVIIIAgilityRing.png",
+        "Iron claw": "https://dragon-quest.org/images/thumb/2/2e/DQIII_Iron_Claw.png/230px-DQIII_Iron_Claw.png",
+        "Flametang boomerang": "https://dragon-quest.org/images/thumb/f/f0/FireBoomerang.png/200px-FireBoomerang.png",
+        "Swallowtail": "https://dragon-quest.org/images/thumb/7/7e/TwinSwallowsBoomerang.png/190px-TwinSwallowsBoomerang.png",
+        "Flame shield": "https://dragon-quest.org/images/thumb/4/4c/DVIIIFlameShield.png/165px-DVIIIFlameShield.png",
+        "Fallen angel rapier": "https://dragon-quest.org/images/thumb/9/9e/FallenAngelRapier.png/180px-FallenAngelRapier.png",
+        "Holy silver rapier": "https://dragon-quest.org/images/thumb/f/f8/HolySilverRapier.png/180px-HolySilverRapier.png",
+        "Wing of bat": "https://dragon-quest.org/images/thumb/0/0c/DQVIII_Cowpat.png/90px-DQVIII_Cowpat.png",
+        "Golden axe": "https://dragon-quest.org/images/thumb/4/42/GoldenAxe.png/160px-GoldenAxe.png",
+        "Iron axe": "https://dragon-quest.org/images/thumb/b/b4/IronAxe.png/210px-IronAxe.png",
+        "Gold nugget": "https://dragon-quest.org/images/thumb/0/0c/DQVIII_Cowpat.png/90px-DQVIII_Cowpat.png",
+        "Hell scythe": "https://dragon-quest.org/images/thumb/5/56/HellScythe.png/200px-HellScythe.png",
+        "Steel scythe": "https://dragon-quest.org/images/thumb/0/0e/SteelScythe.png/200px-SteelScythe.png",
+        "Poison moth knife": "https://dragon-quest.org/images/thumb/a/ac/DQVIII_Poison_Moth_Knife_Artwork.png/200px-DQVIII_Poison_Moth_Knife_Artwork.png",
+        "Hades' helm": "https://dragon-quest.org/images/thumb/b/b8/DQVIIIHadesHelm.png/220px-DQVIIIHadesHelm.png",
+        "Holy lance": "https://dragon-quest.org/images/thumb/7/79/HolyLance.png/220px-HolyLance.png",
+        "Long spear": "https://dragon-quest.org/images/thumb/3/33/LongSpear.png/220px-LongSpear.png",
+        "Gold rosary": "https://dragon-quest.org/images/thumb/1/1d/DQVIIIGoldRosary.png/150px-DQVIIIGoldRosary.png",
+        "Templar's sword": "https://dragon-quest.org/images/thumb/c/cc/DQIX_Kiefers_gloves.png/40px-DQIX_Kiefers_gloves.png",
+        "Holy talisman": "https://dragon-quest.org/images/thumb/c/cf/DQVIIIHolyTalisman.png/120px-DQVIIIHolyTalisman.png",
+        "Cypress stick": "https://dragon-quest.org/images/thumb/3/39/CypressStick.png/180px-CypressStick.png",
+        "Strength ring": "https://dragon-quest.org/images/thumb/2/29/DQIV_Strength_Ring.png/230px-DQIV_Strength_Ring.png",
+        "Short bow": "https://dragon-quest.org/images/thumb/d/de/ShortBow.png/200px-ShortBow.png",
+        "Chain whip": "https://dragon-quest.org/images/thumb/9/93/ChainWhip.png/275px-ChainWhip.png",
+        "Imp knife": "https://dragon-quest.org/images/thumb/2/27/Imp_Knife.png/200px-Imp_Knife.png",
+        "Farmer's scythe": "https://dragon-quest.org/images/thumb/d/d3/FarmersScythe.png/200px-FarmersScythe.png",
+        "Iron lance": "https://dragon-quest.org/images/thumb/8/88/IronLance.png/210px-IronLance.png",
+        "Dagger": "https://dragon-quest.org/images/thumb/4/45/Dagger.png/200px-Dagger.png",
+        "King axe": "https://dragon-quest.org/images/thumb/9/95/KingsAxe.png/180px-KingsAxe.png",
+        "Slime crown": "https://dragon-quest.org/images/thumb/2/29/DQVIIISlimeCrown.png/250px-DQVIIISlimeCrown.png",
+        "King cobra claw": "https://dragon-quest.org/images/thumb/d/d0/King_cobra_claws.png/214px-King_cobra_claws.png",
+        "Leather whip": "https://dragon-quest.org/images/thumb/2/2c/LeatherWhip.png/220px-LeatherWhip.png",
+        "Saint's ashes": "https://dragon-quest.org/images/thumb/e/e9/SaintsAshes.png/100px-SaintsAshes.png",
+        "Rusty old sword": "https://dragon-quest.org/images/thumb/c/ca/DQVI_Rusty_Sword.png/200px-DQVI_Rusty_Sword.png",
+        "Lunar fan": "https://dragon-quest.org/images/thumb/f/fc/DQIX_-_Lunar_fan.png/200px-DQIX_-_Lunar_fan.png",
+        "Stellar fan": "https://dragon-quest.orgnada",
+        "Full moon ring": "https://dragon-quest.org/images/thumb/9/99/DQVIIIFullMoonRing.png/120px-DQVIIIFullMoonRing.png",
+        "Magma staff": "https://dragon-quest.org/images/thumb/7/78/MagmaStaff.png/200px-MagmaStaff.png",
+        "Wizard's staff": "https://dragon-quest.org/images/thumb/1/1d/WizardsStaff.png/200px-WizardsStaff.png",
+        "Rockbomb shard": "https://dragon-quest.org/images/thumb/a/ae/RockbombShard.png/180px-RockbombShard.png",
+        "Megaton hammer": "https://dragon-quest.org/images/thumb/0/0c/MegatonHammer.png/220px-MegatonHammer.png",
+        "Über war hammer": "https://dragon-quest.org/images/thumb/b/b0/UberWarHammer.png/200px-UberWarHammer.png",
+        "Conquerer's axe": "https://dragon-quest.org/images/thumb/6/6e/ConquerorsAxe.png/220px-ConquerorsAxe.png",
+        "Mercury's rapier": "https://dragon-quest.org/images/thumb/8/80/MercurysRapier.png/190px-MercurysRapier.png",
+        "Mercury's bandana": "https://dragon-quest.org/images/thumb/9/93/Mercurys_Bandana.png/190px-Mercurys_Bandana.png",
+        "Metal king spear": "https://dragon-quest.org/images/thumb/d/d8/MetalKingSpear.png/220px-MetalKingSpear.png",
+        "Metal wing boomerang": "https://dragon-quest.org/images/thumb/8/8a/MetalWingedBoomerang.png/230px-MetalWingedBoomerang.png",
+        "Razor wing boomerang": "https://dragon-quest.org/images/thumb/e/e5/EdgedWingedBoomerang.png/220px-EdgedWingedBoomerang.png",
+        "Moon axe": "https://dragon-quest.org/images/thumb/3/31/MoonAxe.png/190px-MoonAxe.png",
+        "Moon's mercy": "https://dragon-quest.org/images/thumb/0/06/Moons_Mercy.png/140px-Moons_Mercy.png",
+        "Odin's bow": "https://dragon-quest.org/images/thumb/1/19/DQVIII_Odins_Bow.png/255px-DQVIII_Odins_Bow.png",
+        "Great bow": "https://dragon-quest.org/images/thumb/3/3a/GreatBow.png/220px-GreatBow.png",
+        "Peacock fan": "https://dragon-quest.orgnada",
+        "Iron fan": "https://dragon-quest.org/images/thumb/4/46/DQIX_-_Iron_fan.png/230px-DQIX_-_Iron_fan.png",
+        "Hermes' hat": "https://dragon-quest.org/images/thumb/e/eb/DQVIIIHermesHat.png/250px-DQVIIIHermesHat.png",
+        "Edged boomerang": "https://dragon-quest.org/images/thumb/6/6f/EdgedBoomerang.png/190px-EdgedBoomerang.png",
+        "Reinforced boomerang": "https://dragon-quest.org/images/thumb/4/40/ReinforcedBoomerang.png/160px-ReinforcedBoomerang.png",
+        "Boomerang": "https://dragon-quest.org/images/thumb/7/7c/Boomerang.png/220px-Boomerang.png",
+        "Iron nail": "https://dragon-quest.org/images/thumb/0/0c/DQVIII_Cowpat.png/90px-DQVIII_Cowpat.png",
+        "Mystifying mixture": "https://dragon-quest.org/images/thumb/9/9e/MystifyingMixture.png/145px-MystifyingMixture.png",
+        "Cowpat": "https://dragon-quest.org/images/thumb/0/0c/DQVIII_Cowpat.png/90px-DQVIII_Cowpat.png",
+        "Sandstorm spear": "https://dragon-quest.org/images/thumb/c/c7/DustStormSpear.png/220px-DustStormSpear.png",
+        "Partisan": "https://dragon-quest.org/images/thumb/c/c1/Partisan.png/220px-Partisan.png",
+        "Shamshir of light": "https://dragon-quest.org/images/thumb/b/b4/ShamshirOfLight.png/200px-ShamshirOfLight.png",
+        "Shimmering dress": "https://dragon-quest.org/images/thumb/4/4e/DQVIII_Shimmering_Dress.png/175px-DQVIII_Shimmering_Dress.png",
+        "Rune staff": "https://dragon-quest.org/images/thumb/c/c4/RuneStaff.png/135px-RuneStaff.png",
+        "Light shield": "https://dragon-quest.org/images/thumb/b/ba/DQIX_Light_shield.png/200px-DQIX_Light_shield.png",
+        "Sledgehammer": "https://dragon-quest.org/images/thumb/9/9a/Sledgehammer.png/210px-Sledgehammer.png",
+        "Giant mallet": "https://dragon-quest.org/images/thumb/0/06/GiantMallet.png/200px-GiantMallet.png",
+        "Iron helmet": "https://dragon-quest.org/images/thumb/3/37/DQVIIIIronHelmet.png/220px-DQVIIIIronHelmet.png",
+        "Scale shield": "https://dragon-quest.org/images/thumb/a/a8/DQVIII_Scale_Shield.png/210px-DQVIII_Scale_Shield.png",
+        "Solar fan": "https://dragon-quest.org/images/thumb/3/39/DQIX_-_Solar_fan.png/200px-DQIX_-_Solar_fan.png",
+        "Staff of antimagic": "https://dragon-quest.org/images/thumb/6/62/Staff_of_antimagic_classic_design.png/100px-Staff_of_antimagic_classic_design.png",
+        "Staff of resurrection": "https://dragon-quest.org/images/thumb/7/7c/StaffOfResurrection.png/180px-StaffOfResurrection.png",
+        "Life bracer": "https://dragon-quest.org/images/thumb/a/af/DQVIII_Life_Bracer.png/170px-DQVIII_Life_Bracer.png",
+        "Yggdrasil leaf": "https://dragon-quest.org/images/thumb/4/40/YggdrasilLeafArt.png/200px-YggdrasilLeafArt.png",
+        "Rainbow fan": "https://dragon-quest.org/images/thumb/9/96/DQVIII3DS_Rainbow_Fan.png/200px-DQVIII3DS_Rainbow_Fan.png",
+        "Highly-strung cheese": "https://dragon-quest.org/images/thumb/0/0b/AngelCheese.png/120px-AngelCheese.png",
+        "Silver tiara": "https://dragon-quest.org/images/thumb/3/38/DQVIIISilverTiara.png/230px-DQVIIISilverTiara.png",
+        "Stone axe": "https://dragon-quest.org/images/thumb/f/ff/StoneAxe.png/160px-StoneAxe.png",
+        "Stone hardhat": "https://dragon-quest.org/images/thumb/7/71/DQVIIIStoneHardhat.png/120px-DQVIIIStoneHardhat.png",
+        "Über falcon blade": "https://dragon-quest.org/images/thumb/f/ff/UberFalconBlade.png/200px-UberFalconBlade.png",
+        "Falcon blade": "https://dragon-quest.org/images/thumb/f/f2/FalconBlade.png/225px-FalconBlade.png",
+        "Meteorite bracer": "https://dragon-quest.org/images/thumb/2/2c/DQVIII_Meteorite_Bracer.png/260px-DQVIII_Meteorite_Bracer.png",
+        "Über miracle sword": "https://dragon-quest.org/images/thumb/c/c3/UberMiracleSword.png/160px-UberMiracleSword.png",
+        "Miracle sword": "https://dragon-quest.org/images/thumb/b/bd/MiracleSword.png/220px-MiracleSword.png",
+        "War hammer": "https://dragon-quest.org/images/thumb/5/5d/War_Hammer.png/240px-War_Hammer.png",
+        "Zombie slayer": "https://dragon-quest.org/images/thumb/6/64/ZombieSlayer.png/160px-ZombieSlayer.png",
+        "Zombiesbane": "https://dragon-quest.org/images/thumb/c/cd/Zombiesbane.png/200px-Zombiesbane.png",
+        "Angel's robe": "https://dragon-quest.org/images/thumb/8/84/DVIII_Angels_Robe.png/195px-DVIII_Angels_Robe.png",
+        "Flowing dress": "https://dragon-quest.org/images/thumb/4/44/DQVIII_Flowing_Dress.png/240px-DQVIII_Flowing_Dress.png",
+        "Magical skirt": "https://dragon-quest.org/images/thumb/7/7e/DQVIII_Magical_Skirt.png/200px-DQVIII_Magical_Skirt.png",
+        "Bandit mail": "https://dragon-quest.org/images/thumb/4/43/DVIII_Bandit_Mail.png/180px-DVIII_Bandit_Mail.png",
+        "Heavy armour": "https://dragon-quest.org/images/thumb/2/21/DQVIII_Heavy_Armour.png/210px-DQVIII_Heavy_Armour.png",
+        "Bandit's grass skirt": "https://dragon-quest.org/images/thumb/5/59/DQVIII_Bandits_Grass_Skirt.png/180px-DQVIII_Bandits_Grass_Skirt.png",
+        "Boxers": "https://dragon-quest.org/images/thumb/a/ab/DQVIII_Boxer_Shorts.png/210px-DQVIII_Boxer_Shorts.png",
+        "Bandana": "https://dragon-quest.org/images/thumb/0/07/DQVIII_Bandana.png/215px-DQVIII_Bandana.png",
+        "Bronze armour": "https://dragon-quest.org/images/thumb/8/8f/DQVIII_Bronze_Armour.png/215px-DQVIII_Bronze_Armour.png",
+        "Chain mail": "https://dragon-quest.org/images/thumb/a/a2/DQVIII_Chain_Mail.png/210px-DQVIII_Chain_Mail.png",
+        "Bronze shield": "https://dragon-quest.org/images/thumb/b/b2/DVIII_Bronze_Shield.png/150px-DVIII_Bronze_Shield.png",
+        "Bunny suit": "https://dragon-quest.org/images/thumb/a/ae/DQVIII_Bunny_Suit.png/215px-DQVIII_Bunny_Suit.png",
+        "Silk bustier": "https://dragon-quest.org/images/thumb/7/7c/DQVIII_Silk_Bustier.png/190px-DQVIII_Silk_Bustier.png",
+        "Bunny tail": "https://dragon-quest.org/images/thumb/f/fe/DQVIIIBunnyTail.png/150px-DQVIIIBunnyTail.png",
+        "Wayfarer's clothes": "https://dragon-quest.org/images/thumb/2/2e/Wayfarers_Clothes.png/200px-Wayfarers_Clothes.png",
+        "Crimson robe": "https://dragon-quest.org/images/thumb/e/eb/DVIII_Crimson_Robe.png/180px-DVIII_Crimson_Robe.png",
+        "Sage's robe": "https://dragon-quest.org/images/thumb/7/7a/DQVIII_Sages_Robe.png/230px-DQVIII_Sages_Robe.png",
+        "Magic water": "https://dragon-quest.org/images/thumb/8/8f/DQVIII_Magic_Water.png/170px-DQVIII_Magic_Water.png",
+        "Nook grass": "https://dragon-quest.org/images/thumb/0/0c/DQVIII_Cowpat.png/90px-DQVIII_Cowpat.png",
+        "Dancer's mail": "https://dragon-quest.org/images/thumb/7/7d/DQVIII_Dancers_Mail.png/200px-DQVIII_Dancers_Mail.png",
+        "Silver mail": "https://dragon-quest.org/images/thumb/c/c1/DQVIII_Silver_Mail.png/230px-DQVIII_Silver_Mail.png",
+        "Dancer's costume": "https://dragon-quest.org/images/thumb/b/b4/DQVIII_Dancers_Costume.png/180px-DQVIII_Dancers_Costume.png",
+        "Dark robe": "https://dragon-quest.org/images/thumb/8/81/DQVIII_Dark_Robe.png/200px-DQVIII_Dark_Robe.png",
+        "Cloak of evasion": "https://dragon-quest.org/images/thumb/2/29/DQVIII_Cloak_of_Evasion.png/200px-DQVIII_Cloak_of_Evasion.png",
+        "Divine bustier": "https://dragon-quest.org/images/thumb/1/17/DVIII_Divine_Bustier.png/210px-DVIII_Divine_Bustier.png",
+        "Dangerous bustier": "https://dragon-quest.org/images/thumb/1/1a/DQVIII_Dangerous_Bustier.png/180px-DQVIII_Dangerous_Bustier.png",
+        "Dogsbody's vest": "https://dragon-quest.org/images/thumb/9/9f/DQVIII_Yangus_Pirate.jpg/300px-DQVIII_Yangus_Pirate.jpg",
+        "Plain clothes": "https://dragon-quest.org/images/thumb/c/cd/DQVIII_Plain_Clothes.png/210px-DQVIII_Plain_Clothes.png",
+        "Coral hairpin": "https://dragon-quest.org/images/thumb/c/c9/DQVIIICoralHairpin.png/210px-DQVIIICoralHairpin.png",
+        "Dragon mail": "https://dragon-quest.org/images/thumb/1/19/DQVIII_Dragon_Mail.png/250px-DQVIII_Dragon_Mail.png",
+        "Fur poncho": "https://dragon-quest.org/images/thumb/d/d4/DVIIIFurPoncho.png/200px-DVIIIFurPoncho.png",
+        "Magic beast hide": "https://dragon-quest.org/images/thumb/0/0a/Magic_Beast_Hide.png/200px-Magic_Beast_Hide.png",
+        "Gigant armour": "https://dragon-quest.org/images/thumb/0/0d/DQVIII_Gigant_Armour.png/250px-DQVIII_Gigant_Armour.png",
+        "Hexlet's skirt": "https://dragon-quest.org/images/thumb/7/73/DQVIII_Hexlet_Jessica.jpg/300px-DQVIII_Hexlet_Jessica.jpg",
+        "Iron cuirass": "https://dragon-quest.org/images/thumb/4/4e/DQVIII_Iron_Cuirass.png/230px-DQVIII_Iron_Cuirass.png",
+        "Iron shield": "https://dragon-quest.org/images/thumb/e/e5/DVIII_Iron_Shield.png/200px-DVIII_Iron_Shield.png",
+        "Leather armour": "https://dragon-quest.org/images/thumb/7/71/DQVIII_Leather_Armour.png/210px-DQVIII_Leather_Armour.png",
+        "Leather dress": "https://dragon-quest.org/images/thumb/9/97/DQVIII_Leather_Dress.png/200px-DQVIII_Leather_Dress.png",
+        "Leather kilt": "https://dragon-quest.org/images/thumb/9/95/DQVIII_Leather_Kilt.png/210px-DQVIII_Leather_Kilt.png",
+        "Magical hat": "https://dragon-quest.org/images/thumb/b/ba/DQVIIIMagicalHat.png/200px-DQVIIIMagicalHat.png",
+        "Magical mace": "https://dragon-quest.org/images/thumb/6/66/MagicalMace.png/180px-MagicalMace.png",
+        "Magic armour": "https://dragon-quest.org/images/thumb/b/b7/DQVIII_Magic_Armour.png/210px-DQVIII_Magic_Armour.png",
+        "Full plate armour": "https://dragon-quest.org/images/thumb/7/77/DQVIII_Full_Plate_Armour.png/220px-DQVIII_Full_Plate_Armour.png",
+        "Prayer ring": "https://dragon-quest.org/images/thumb/e/e4/DQVIII_Prayer_Ring.png/170px-DQVIII_Prayer_Ring.png",
+        "Ruby of protection": "https://dragon-quest.org/images/thumb/7/77/DQVIII_Ruby_of_Protection.png/240px-DQVIII_Ruby_of_Protection.png",
+        "Metal king armour": "https://dragon-quest.org/images/thumb/d/d4/Metal_King_Armour.png/230px-Metal_King_Armour.png",
+        "Liquid metal armour": "https://dragon-quest.org/images/thumb/3/3b/Liquid_Metal_Armour.png/230px-Liquid_Metal_Armour.png",
+        "Mirror armour": "https://dragon-quest.org/images/thumb/1/1f/DVIII_Mirror_Armour.png/250px-DVIII_Mirror_Armour.png",
+        "Silver shield": "https://dragon-quest.org/images/thumb/e/ef/DVIIISilverShield.png/200px-DVIIISilverShield.png",
+        "Mirror shield": "https://dragon-quest.org/images/thumb/4/4e/DVIIIMirrorShield.png/170px-DVIIIMirrorShield.png",
+        "Nitid tutu": "https://dragon-quest.orgnada",
+        "Spangled dress": "https://dragon-quest.org/images/thumb/2/2e/DQVIII_Spangled_Dress.png/175px-DQVIII_Spangled_Dress.png",
+        "Oriental warrior wear": "https://dragon-quest.org/images/thumb/4/46/Angelo_Oriental_warrior_wear.jpg/300px-Angelo_Oriental_warrior_wear.jpg",
+        "Platinum mail": "https://dragon-quest.org/images/thumb/7/73/DQVIII_Platinum_Mail.png/230px-DQVIII_Platinum_Mail.png",
+        "Zombie mail": "https://dragon-quest.org/images/thumb/d/d0/DQVIII_Zombie_Mail.png/210px-DQVIII_Zombie_Mail.png",
+        "Princess's robe": "https://dragon-quest.org/images/thumb/3/39/DQVIII_Princess_Robe.png/180px-DQVIII_Princess_Robe.png",
+        "Robe of serenity": "https://dragon-quest.org/images/thumb/f/f5/DQVIII_Robe_of_Serenity.png/190px-DQVIII_Robe_of_Serenity.png",
+        "Magic vestment": "https://dragon-quest.org/images/thumb/6/65/DQVIII_Magic_Vestment.png/220px-DQVIII_Magic_Vestment.png",
+        "Scholar's cap": "https://dragon-quest.org/images/thumb/3/3e/DQVIIIScholarsCap.png/200px-DQVIIIScholarsCap.png",
+        "Scale armour": "https://dragon-quest.org/images/thumb/5/57/DQVIII_Scale_Armour.png/250px-DQVIII_Scale_Armour.png",
+        "Gold bracer": "https://dragon-quest.org/images/thumb/1/11/DQVIII_Gold_Bracer.png/200px-DQVIII_Gold_Bracer.png",
+        "Silver cuirass": "https://dragon-quest.org/images/thumb/a/a0/DQVIII_Silver_Cuirass.png/210px-DQVIII_Silver_Cuirass.png",
+        "Silver platter": "https://dragon-quest.org/images/thumb/1/17/DVIIISilverPlatter.png/185px-DVIIISilverPlatter.png",
+        "Spiked armour": "https://dragon-quest.org/images/thumb/f/f7/DQVIII_Spiked_Armour.png/220px-DQVIII_Spiked_Armour.png",
+        "Templar's uniform": "https://dragon-quest.org/images/thumb/c/cc/DQIX_Kiefers_gloves.png/40px-DQIX_Kiefers_gloves.png",
+        "Templar's shield": "https://dragon-quest.org/images/thumb/c/cc/DQIX_Kiefers_gloves.png/40px-DQIX_Kiefers_gloves.png",
+        "Über sacred armour": "https://dragon-quest.org/images/thumb/8/82/DQIX_sacred_armour.png/40px-DQIX_sacred_armour.png",
+        "Sacred armour": "https://dragon-quest.org/images/thumb/1/13/DVIII_Sacred_Armour.png/230px-DVIII_Sacred_Armour.png",
+        "Recovery ring": "https://dragon-quest.org/images/thumb/1/12/DQVIIIRecoveryRing.png/240px-DQVIIIRecoveryRing.png",
+        "Big bad boss shield": "https://dragon-quest.org/images/thumb/3/3b/DVIII_Big_Bad_Boss_Shield.jpg/300px-DVIII_Big_Bad_Boss_Shield.jpg",
+        "Big boss shield": "https://dragon-quest.org/images/thumb/6/6b/DVIII_Big_Boss_Shield.png/160px-DVIII_Big_Boss_Shield.png",
+        "Goddess shield": "https://dragon-quest.org/images/thumb/8/8b/DVIII_Goddess_Shield.png/180px-DVIII_Goddess_Shield.png",
+        "Mild cheese": "https://dragon-quest.org/images/thumb/0/0b/AngelCheese.png/120px-AngelCheese.png",
+        "Leather shield": "https://dragon-quest.org/images/thumb/6/6b/DQVIII_Leather_Shield.png/200px-DQVIII_Leather_Shield.png",
+        "Dragon shield": "https://dragon-quest.org/images/thumb/2/21/DVIII_Dragon_Shield.png/200px-DVIII_Dragon_Shield.png",
+        "Steel shield": "https://dragon-quest.org/images/thumb/d/d4/DVIIISteelShield.png/180px-DVIIISteelShield.png",
+        "Magic shield": "https://dragon-quest.org/images/thumb/5/53/DVIII_Magic_Shield.png/175px-DVIII_Magic_Shield.png",
+        "Thanatos' shield": "https://dragon-quest.org/images/thumb/4/46/DVIII_Thanatos_Shield.png/250px-DVIII_Thanatos_Shield.png",
+        "Ice shield": "https://dragon-quest.org/images/thumb/4/4f/DQVIII_Ice_Shield.png/185px-DQVIII_Ice_Shield.png",
+        "Pot lid": "https://dragon-quest.org/images/thumb/4/4f/DQVIII_Pot_Lid.png/200px-DQVIII_Pot_Lid.png",
+        "Metal king shield": "https://dragon-quest.org/images/thumb/2/2b/DVIII_Metal_King_Shield.png/185px-DVIII_Metal_King_Shield.png",
+        "Ruinous shield": "https://dragon-quest.org/images/thumb/a/ab/DVI_Ruinous_Shield.png/227px-DVI_Ruinous_Shield.png",
+        "Cured cheese": "https://dragon-quest.org/images/thumb/0/0b/AngelCheese.png/120px-AngelCheese.png",
+        "Saintess shield": "https://dragon-quest.org/images/thumb/d/d5/DVIII_Saintess_Shield.png/160px-DVIII_Saintess_Shield.png",
+        "White shield": "https://dragon-quest.org/images/thumb/6/61/DQVIII_White_Shield.png/165px-DQVIII_White_Shield.png",
+        "Holy water": "https://dragon-quest.org/images/thumb/a/a5/HolyWaterArt.png/125px-HolyWaterArt.png",
+        "Amor seco essence": "https://dragon-quest.org/images/thumb/2/21/DQVIII_Amor_Seco_Essence.png/130px-DQVIII_Amor_Seco_Essence.png",
+        "Fresh milk": "https://dragon-quest.org/images/thumb/0/0c/DQVIII_Cowpat.png/90px-DQVIII_Cowpat.png",
+        "Bronze helmet": "https://dragon-quest.org/images/thumb/e/e8/DQVIIIBronzeHelmet.png/180px-DQVIIIBronzeHelmet.png",
+        "Bunny ears": "https://dragon-quest.org/images/thumb/f/fd/DQVIIIBunnyEars.png/215px-DQVIIIBunnyEars.png",
+        "Hairband": "https://dragon-quest.org/images/thumb/6/61/Hairband.png/230px-Hairband.png",
+        "Dogsbody's hood": "https://dragon-quest.org/images/thumb/9/9f/DQVIII_Yangus_Pirate.jpg/300px-DQVIII_Yangus_Pirate.jpg",
+        "Feathered cap": "https://dragon-quest.org/images/thumb/a/af/DQVIIIFeatheredCap.png/250px-DQVIIIFeatheredCap.png",
+        "Leather hat": "https://dragon-quest.org/images/thumb/b/ba/DQVIII_Leather_Hat.png/230px-DQVIII_Leather_Hat.png",
+        "Chimaera wing": "https://dragon-quest.org/images/thumb/3/32/Chimaera_Wing.png/200px-Chimaera_Wing.png",
+        "Fur hood": "https://dragon-quest.org/images/thumb/d/d0/DQVIIIFurHood.png/195px-DQVIIIFurHood.png",
+        "Golden tiara": "https://dragon-quest.org/images/thumb/2/23/DQVIIIGoldenTiara.png/230px-DQVIIIGoldenTiara.png",
+        "Thinking cap": "https://dragon-quest.org/images/thumb/6/60/DQVIIIThinkingCap.png/230px-DQVIIIThinkingCap.png",
+        "Mythril helm": "https://dragon-quest.org/images/thumb/b/bd/DQVIIIMythrilHelm.png/160px-DQVIIIMythrilHelm.png",
+        "Happy hat": "https://dragon-quest.org/images/thumb/a/ae/DQVIIIHappyHat.png/225px-DQVIIIHappyHat.png",
+        "Elevating shoes": "https://dragon-quest.org/images/thumb/c/cc/DQVIII_Elevating_Shoes.png/220px-DQVIII_Elevating_Shoes.png",
+        "Hexlet's hat": "https://dragon-quest.org/images/thumb/7/73/DQVIII_Hexlet_Jessica.jpg/300px-DQVIII_Hexlet_Jessica.jpg",
+        "Kunoichi headband": "https://dragon-quest.org/images/thumb/a/a3/DQVIII_Red_Kunoichi.jpg/300px-DQVIII_Red_Kunoichi.jpg",
+        "Iron headgear": "https://dragon-quest.org/images/thumb/1/16/DQVIIIIronHeadgear.png/130px-DQVIIIIronHeadgear.png",
+        "Phantom mask": "https://dragon-quest.org/images/thumb/3/3e/Phantom_Mask.png/220px-Phantom_Mask.png",
+        "Pointy hat": "https://dragon-quest.org/images/thumb/1/15/DQVIIIPointyHat.png/210px-DQVIIIPointyHat.png",
+        "Raging bull helm": "https://dragon-quest.org/images/thumb/f/f5/Raging_Bull_Helm.png/145px-Raging_Bull_Helm.png",
+        "Scholar's specs": "https://dragon-quest.org/images/thumb/0/06/DQVIIIScholarsSpecs.png/200px-DQVIIIScholarsSpecs.png",
+        "Skull helm": "https://dragon-quest.org/images/thumb/e/e6/Skull_Helm.png/170px-Skull_Helm.png",
+        "Sun crown": "https://dragon-quest.org/images/thumb/b/be/DQVIIISunCrown.png/200px-DQVIIISunCrown.png",
+        "Turban": "https://dragon-quest.org/images/thumb/6/60/DQVIIITurban.png/210px-DQVIIITurban.png",
+        "Seed of agility": "https://dragon-quest.org/images/thumb/5/5a/SeedOfAgilityArt.png/180px-SeedOfAgilityArt.png",
+        "Catholicon ring": "https://dragon-quest.org/images/thumb/1/11/DQVIIICatholiconRing.png/240px-DQVIIICatholiconRing.png",
+        "Ring of truth": "https://dragon-quest.org/images/thumb/3/39/DQVIIIRingOfTruth.png/170px-DQVIIIRingOfTruth.png",
+        "Ring of immunity": "https://dragon-quest.org/images/thumb/0/05/DQVIII_Ring_of_Immunity.png/130px-DQVIII_Ring_of_Immunity.png",
+        "Fishnet stockings": "https://dragon-quest.org/images/thumb/2/2a/DQVIIIFishnetStockings.png/220px-DQVIIIFishnetStockings.png",
+        "Gold ring": "https://dragon-quest.org/images/thumb/e/ea/DQVIIIGoldRing.png/175px-DQVIIIGoldRing.png",
+        "Goddess ring": "https://dragon-quest.org/images/thumb/b/bd/DQVIIIGoddessRing.png/240px-DQVIIIGoddessRing.png",
+        "Titan belt": "https://dragon-quest.org/images/thumb/c/c3/DQVIIITitanBelt.png/150px-DQVIIITitanBelt.png",
+        "Seed of magic": "https://dragon-quest.org/images/thumb/b/b1/SeedOfMagicArt.png/200px-SeedOfMagicArt.png",
+        "Seed of life": "https://dragon-quest.org/images/thumb/a/ab/SeedOfLifeArt.png/210px-SeedOfLifeArt.png",
+        "Ring of awakening": "https://dragon-quest.org/images/thumb/f/fa/DQVIIIRingOfAwakening.png/90px-DQVIIIRingOfAwakening.png",
+        "Dream blade": "https://dragon-quest.org/images/thumb/c/ca/DreamBlade.png/200px-DreamBlade.png",
+        "Ring of clarity": "https://dragon-quest.org/images/thumb/5/55/DQVIIIRingOfClarity.png/120px-DQVIIIRingOfClarity.png",
+        "Seed of resilience": "https://dragon-quest.org/images/thumb/2/21/SeedOfDefenseArt.png/240px-SeedOfDefenseArt.png",
+        "Seed of wisdom": "https://dragon-quest.org/images/thumb/7/7b/SeedOfWisdomArt.png/180px-SeedOfWisdomArt.png",
+        "Skull ring": "https://dragon-quest.org/images/thumb/6/69/DQVIIISkullRing.png/200px-DQVIIISkullRing.png",
+        "Sorcerer's ring": "https://dragon-quest.org/images/thumb/0/0f/DQVIIISorcerersRing.png/130px-DQVIIISorcerersRing.png",
+        "Seed of strength": "https://dragon-quest.org/images/thumb/2/22/SeedOfStrengthArt.png/190px-SeedOfStrengthArt.png",
+        "Angel cheese": "https://dragon-quest.org/images/thumb/0/0b/AngelCheese.png/120px-AngelCheese.png",
+        "Premium mould": "https://dragon-quest.org/images/thumb/0/0c/DQVIII_Cowpat.png/90px-DQVIII_Cowpat.png",
+        "Yggdrasil dew": "https://dragon-quest.org/images/thumb/d/d5/YggdrasilDew.png/120px-YggdrasilDew.png",
+        "C-c-cold cheese": "https://dragon-quest.org/images/thumb/0/0b/AngelCheese.png/120px-AngelCheese.png",
+        "Dragon dung": "https://dragon-quest.org/images/thumb/0/0c/DQVIII_Cowpat.png/90px-DQVIII_Cowpat.png",
+        "Chilly cheese": "https://dragon-quest.org/images/thumb/0/0b/AngelCheese.png/120px-AngelCheese.png",
+        "Cool cheese": "https://dragon-quest.org/images/thumb/0/0b/AngelCheese.png/120px-AngelCheese.png",
+        "Waterweed mould": "https://dragon-quest.org/images/thumb/0/0c/DQVIII_Cowpat.png/90px-DQVIII_Cowpat.png",
+        "Chunky cheese": "https://dragon-quest.org/images/thumb/0/0b/AngelCheese.png/120px-AngelCheese.png",
+        "Plain cheese": "https://dragon-quest.org/images/thumb/0/0b/AngelCheese.png/120px-AngelCheese.png",
+        "Hard cheese": "https://dragon-quest.org/images/thumb/0/0b/AngelCheese.png/120px-AngelCheese.png",
+        "Rock salt": "https://dragon-quest.org/images/thumb/0/0c/DQVIII_Cowpat.png/90px-DQVIII_Cowpat.png",
+        "Super spicy cheese": "https://dragon-quest.org/images/thumb/0/0b/AngelCheese.png/120px-AngelCheese.png",
+        "Rennet powder": "https://dragon-quest.org/images/thumb/0/0c/DQVIII_Cowpat.png/90px-DQVIII_Cowpat.png",
+        "Scorching cheese": "https://dragon-quest.org/images/thumb/0/0b/AngelCheese.png/120px-AngelCheese.png",
+        "Soft cheese": "https://dragon-quest.org/images/thumb/0/0b/AngelCheese.png/120px-AngelCheese.png",
+        "Spicy cheese": "https://dragon-quest.org/images/thumb/0/0b/AngelCheese.png/120px-AngelCheese.png",
+        "Red mould": "https://dragon-quest.org/images/thumb/0/0c/DQVIII_Cowpat.png/90px-DQVIII_Cowpat.png",
+        "Strong medicine": "https://dragon-quest.org/images/thumb/6/66/Strong_Medicine.png/175px-Strong_Medicine.png",
+        "Elfin elixir": "https://dragon-quest.org/images/thumb/5/53/DQVIII_Elfin_Elixir.png/160px-DQVIII_Elfin_Elixir.png",
+        "Greater panacea": "https://dragon-quest.org/images/thumb/f/f3/GreaterPanacea.png/180px-GreaterPanacea.png",
+        "Special medicine": "https://dragon-quest.org/images/thumb/e/e7/Special_Medicine.png/175px-Special_Medicine.png",
+        "Lesser panacea": "https://dragon-quest.org/images/thumb/e/ea/LesserPanacea.png/130px-LesserPanacea.png",
+        "Rose-root": "https://dragon-quest.orgnada",
+        "Rose-wort": "https://dragon-quest.org/images/thumb/0/0a/Rosewort.png/135px-Rosewort.png",
+        "Moonwort bulb": "https://dragon-quest.org/images/thumb/c/c9/Moonwort_Bulb.png/220px-Moonwort_Bulb.png",
+        "Medicinal herb": "https://dragon-quest.org/images/thumb/0/08/DQIV_DS_Medicinal_Herb.png/240px-DQIV_DS_Medicinal_Herb.png",
+        "Special antidote": "https://dragon-quest.org/images/thumb/a/a0/Special_Antidote.png/150px-Special_Antidote.png",
+        "Antidotal herb": "https://dragon-quest.org/images/thumb/4/44/Antidotal_Herb_art.png/230px-Antidotal_Herb_art.png",
+        "Strong antidote": "https://dragon-quest.org/images/thumb/4/46/Strong_Antidote.png/130px-Strong_Antidote.png",
+        "Sage's stone": "https://dragon-quest.org/images/thumb/1/1c/Sage%27s_stone_modern.png/240px-Sage%27s_stone_modern.png",
+        "Timbrel of tension": "https://dragon-quest.org/images/thumb/0/0e/DQVIII_Timbrel_of_Tension.png/200px-DQVIII_Timbrel_of_Tension.png"
+    },
+    "Weapon": [
+        {
+            "name": "Assassin's dagger",
+            "recipe": [
+                "Eagle dagger",
+                "Poison needle"
+            ]
+        },
+        {
+            "name": "Bandit axe",
+            "recipe": [
+                "Battle axe",
+                "Thief's Key"
+            ]
+        },
+        {
+            "name": "Blizzard blade",
+            "recipe": [
+                "Bastard sword",
+                "Icicle dirk",
+                "Cold cheese"
+            ]
+        },
+        {
+            "name": "Cheiron's bow",
+            "recipe": [
+                "Eros' bow",
+                "Power shield"
+            ]
+        },
+        {
+            "name": "Copper sword",
+            "recipe": [
+                "Bronze knife",
+                "Bronze knife"
+            ]
+        },
+        {
+            "name": "Demon spear",
+            "recipe": [
+                "Battle fork",
+                "Poison needle",
+                "Devil's tail"
+            ]
+        },
+        {
+            "name": "Demon whip",
+            "recipe": [
+                "Scourge whip",
+                "Devil's tail"
+            ]
+        },
+        {
+            "name": "Double-edged sword",
+            "recipe": [
+                "Über double-edge",
+                "Devil's tail"
+            ]
+        },
+        {
+            "name": "Dragon slayer",
+            "recipe": [
+                "Dragonsbane",
+                "Mighty armlet"
+            ]
+        },
+        {
+            "name": "Dragontail whip",
+            "recipe": [
+                "Snakeskin whip",
+                "Dragon's scale",
+                "Dragon's scale"
+            ]
+        },
+        {
+            "name": "Dragovian king sword",
+            "recipe": [
+                "Dragovian sword",
+                "Liquid metal sword"
+            ]
+        },
+        {
+            "name": "Eros' bow",
+            "recipe": [
+                "Hunter's bow",
+                "Garter"
+            ]
+        },
+        {
+            "name": "Falcon knife",
+            "recipe": [
+                "Slime earrings",
+                "Tough guy tattoo",
+                "Agility ring"
+            ]
+        },
+        {
+            "name": "Flametang boomerang",
+            "recipe": [
+                "Swallowtail",
+                "Flame shield"
+            ]
+        },
+        {
+            "name": "Fallen angel rapier",
+            "recipe": [
+                "Holy silver rapier",
+                "Devil's tail",
+                "Wing of bat"
+            ]
+        },
+        {
+            "name": "Golden axe",
+            "recipe": [
+                "Iron axe",
+                "Gold nugget"
+            ]
+        },
+        {
+            "name": "Hell scythe",
+            "recipe": [
+                "Steel scythe",
+                "Poison moth knife",
+                "Hades' helm"
+            ]
+        },
+        {
+            "name": "Holy lance",
+            "recipe": [
+                "Long spear",
+                "Gold rosary"
+            ]
+        },
+        {
+            "name": "Holy silver rapier",
+            "recipe": [
+                "Templar's sword",
+                "Holy talisman"
+            ]
+        },
+        {
+            "name": "Hunter's bow",
+            "recipe": [
+                "Cypress stick",
+                "Cypress stick",
+                "Strength ring",
+                "Short bow",
+                "Chain whip"
+            ]
+        },
+        {
+            "name": "Imp knife",
+            "recipe": [
+                "Assassin's dagger",
+                "Devil's tail"
+            ]
+        },
+        {
+            "name": "Iron axe",
+            "recipe": [
+                "Farmer's scythe",
+                "Farmer's scythe"
+            ]
+        },
+        {
+            "name": "Iron lance",
+            "recipe": [
+                "Cypress stick",
+                "Dagger"
+            ]
+        },
+        {
+            "name": "King axe",
+            "recipe": [
+                "Golden axe",
+                "Slime crown"
+            ]
+        },
+        {
+            "name": "Leather whip",
+            "recipe": [
+                "Devil's tail",
+                "Saint's ashes"
+            ]
+        },
+        {
+            "name": "Liquid metal sword",
+            "recipe": [
+                "Rusty old sword",
+                "Slime crown",
+                "Orichalcum"
+            ]
+        },
+        {
+            "name": "Long spear",
+            "recipe": [
+                "Cypress stick",
+                "Cypress stick",
+                "Iron lance"
+            ]
+        },
+        {
+            "name": "Magma staff",
+            "recipe": [
+                "Wizard's staff",
+                "Rockbomb shard",
+                "Rockbomb shard"
+            ]
+        },
+        {
+            "name": "Megaton hammer",
+            "recipe": [
+                "Über war hammer",
+                "Conquerer's axe",
+                "Orichalcum"
+            ]
+        },
+        {
+            "name": "Mercury's rapier",
+            "recipe": [
+                "Fallen angel rapier",
+                "Mercury's bandana",
+                "Mercury's bandana"
+            ]
+        },
+        {
+            "name": "Metal wing boomerang",
+            "recipe": [
+                "Razor wing boomerang",
+                "Metal king spear"
+            ]
+        },
+        {
+            "name": "Moon axe",
+            "recipe": [
+                "Golden axe",
+                "Moon's mercy"
+            ]
+        },
+        {
+            "name": "Odin's bow",
+            "recipe": [
+                "Cheiron's bow",
+                "Eros' bow",
+                "Great bow"
+            ]
+        },
+        {
+            "name": "Razor wing boomerang",
+            "recipe": [
+                "Edged boomerang",
+                "Wing of bat",
+                "Steel scythe"
+            ]
+        },
+        {
+            "name": "Reinforced boomerang",
+            "recipe": [
+                "Boomerang",
+                "Iron nail"
+            ]
+        },
+        {
+            "name": "Rusty old sword",
+            "recipe": [
+                "Liquid metal sword",
+                "Mystifying mixture",
+                "Cowpat"
+            ]
+        },
+        {
+            "name": "Sandstorm spear",
+            "recipe": [
+                "Partisan",
+                "Saint's ashes"
+            ]
+        },
+        {
+            "name": "Scourge whip",
+            "recipe": [
+                "Demon whip",
+                "Saint's ashes"
+            ]
+        },
+        {
+            "name": "Shamshir of light",
+            "recipe": [
+                "Shimmering dress",
+                "Rune staff",
+                "Light shield"
+            ]
+        },
+        {
+            "name": "Sledgehammer",
+            "recipe": [
+                "Giant mallet",
+                "Iron helmet",
+                "Iron helmet"
+            ]
+        },
+        {
+            "name": "Snakeskin whip",
+            "recipe": [
+                "Leather whip",
+                "Scale shield"
+            ]
+        },
+        {
+            "name": "Solar fan",
+            "recipe": [
+                "Lunar fan",
+                "Flame shield",
+                "Magma staff"
+            ]
+        },
+        {
+            "name": "Staff of antimagic",
+            "recipe": [
+                "Wizard's staff",
+                "Rune staff"
+            ]
+        },
+        {
+            "name": "Staff of resurrection",
+            "recipe": [
+                "Rune staff",
+                "Life bracer",
+                "Yggdrasil leaf"
+            ]
+        },
+        {
+            "name": "Stone axe",
+            "recipe": [
+                "Stone hardhat",
+                "Cypress stick"
+            ]
+        },
+        {
+            "name": "Über double-edge",
+            "recipe": [
+                "Double-edged sword",
+                "Saint's ashes",
+                "Saint's ashes"
+            ]
+        },
+        {
+            "name": "Über falcon blade",
+            "recipe": [
+                "Falcon blade",
+                "Meteorite bracer"
+            ]
+        },
+        {
+            "name": "Über miracle sword",
+            "recipe": [
+                "Miracle sword",
+                "Life bracer"
+            ]
+        },
+        {
+            "name": "Über war hammer",
+            "recipe": [
+                "War hammer",
+                "Mighty armlet"
+            ]
+        },
+        {
+            "name": "Zombie slayer",
+            "recipe": [
+                "Zombiesbane",
+                "Holy talisman"
+            ]
+        }
+    ],
+    "Armour/Clothing": [
+        {
+            "name": "Angel's robe",
+            "recipe": [
+                "Flowing dress",
+                "Magical skirt"
+            ]
+        },
+        {
+            "name": "Bandit mail",
+            "recipe": [
+                "Heavy armour",
+                "Bandit axe",
+                "Bandit's grass skirt"
+            ]
+        },
+        {
+            "name": "Boxers",
+            "recipe": [
+                "Bandit's grass skirt",
+                "Bandana"
+            ]
+        },
+        {
+            "name": "Bronze armour",
+            "recipe": [
+                "Chain mail",
+                "Bronze shield"
+            ]
+        },
+        {
+            "name": "Bunny suit",
+            "recipe": [
+                "Silk bustier",
+                "Bunny tail"
+            ]
+        },
+        {
+            "name": "Chain mail",
+            "recipe": [
+                "Wayfarer's clothes",
+                "Chain whip"
+            ]
+        },
+        {
+            "name": "Crimson robe",
+            "recipe": [
+                "Sage's robe",
+                "Magic water",
+                "Nook grass"
+            ]
+        },
+        {
+            "name": "Dancer's mail",
+            "recipe": [
+                "Silver mail",
+                "Dancer's costume"
+            ]
+        },
+        {
+            "name": "Dark robe",
+            "recipe": [
+                "Cloak of evasion",
+                "Wing of bat",
+                "Devil's tail"
+            ]
+        },
+        {
+            "name": "Divine bustier",
+            "recipe": [
+                "Dangerous bustier",
+                "Shimmering dress"
+            ]
+        },
+        {
+            "name": "Dragon mail",
+            "recipe": [
+                "Silver mail",
+                "Dragon's scale",
+                "Dragon's scale"
+            ]
+        },
+        {
+            "name": "Fur poncho",
+            "recipe": [
+                "Magic beast hide",
+                "Magic beast hide"
+            ]
+        },
+        {
+            "name": "Gigant armour",
+            "recipe": [
+                "Bandit mail",
+                "Mighty armlet",
+                "Mighty armlet"
+            ]
+        },
+        {
+            "name": "Iron cuirass",
+            "recipe": [
+                "Iron shield",
+                "Iron shield"
+            ]
+        },
+        {
+            "name": "Leather armour",
+            "recipe": [
+                "Wayfarer's clothes",
+                "Magic beast hide"
+            ]
+        },
+        {
+            "name": "Leather dress",
+            "recipe": [
+                "Dancer's costume",
+                "Magic beast hide"
+            ]
+        },
+        {
+            "name": "Leather kilt",
+            "recipe": [
+                "Boxers",
+                "Magic beast hide",
+                "Leather whip",
+                "Bandana"
+            ]
+        },
+        {
+            "name": "Magical skirt",
+            "recipe": [
+                "Bandit's grass skirt",
+                "Magical hat",
+                "Magical mace"
+            ]
+        },
+        {
+            "name": "Magic armour",
+            "recipe": [
+                "Full plate armour",
+                "Prayer ring",
+                "Ruby of protection"
+            ]
+        },
+        {
+            "name": "Metal king armour",
+            "recipe": [
+                "Liquid metal armour",
+                "Slime crown",
+                "Orichalcum"
+            ]
+        },
+        {
+            "name": "Mirror armour",
+            "recipe": [
+                "Silver shield",
+                "Mirror shield",
+                "Mirror shield"
+            ]
+        },
+        {
+            "name": "Platinum mail",
+            "recipe": [
+                "Zombie mail",
+                "Saint's ashes"
+            ]
+        },
+        {
+            "name": "Princess's robe",
+            "recipe": [
+                "Angel's robe",
+                "Gold rosary",
+                "Shimmering dress"
+            ]
+        },
+        {
+            "name": "Robe of serenity",
+            "recipe": [
+                "Cloak of evasion",
+                "Boxers"
+            ]
+        },
+        {
+            "name": "Sage's robe",
+            "recipe": [
+                "Magic vestment",
+                "Scholar's cap"
+            ]
+        },
+        {
+            "name": "Scale armour",
+            "recipe": [
+                "Leather armour",
+                "Dragon's scale"
+            ]
+        },
+        {
+            "name": "Shimmering dress",
+            "recipe": [
+                "Spangled dress",
+                "Ruby of protection",
+                "Gold bracer"
+            ]
+        },
+        {
+            "name": "Silver cuirass",
+            "recipe": [
+                "Iron cuirass",
+                "Silver platter",
+                "Silver platter"
+            ]
+        },
+        {
+            "name": "Spiked armour",
+            "recipe": [
+                "Magic armour",
+                "Edged boomerang"
+            ]
+        },
+        {
+            "name": "Templar's uniform",
+            "recipe": [
+                "Wayfarer's clothes",
+                "Templar's shield"
+            ]
+        },
+        {
+            "name": "Wayfarer's clothes",
+            "recipe": [
+                "Plain clothes",
+                "Plain clothes"
+            ]
+        },
+        {
+            "name": "Zombie mail",
+            "recipe": [
+                "Silver mail",
+                "Zombiesbane",
+                "Platinum mail",
+                "Devil's tail"
+            ]
+        }
+    ],
+    "Shields": [
+        {
+            "name": "Bronze shield",
+            "recipe": [
+                "Leather shield",
+                "Bronze knife"
+            ]
+        },
+        {
+            "name": "Dragon shield",
+            "recipe": [
+                "Steel shield",
+                "Dragon's scale",
+                "Dragon's scale"
+            ]
+        },
+        {
+            "name": "Flame shield",
+            "recipe": [
+                "Magic shield",
+                "Flametang boomerang"
+            ]
+        },
+        {
+            "name": "Goddess shield",
+            "recipe": [
+                "Thanatos' shield",
+                "Saint's ashes"
+            ]
+        },
+        {
+            "name": "Ice shield",
+            "recipe": [
+                "Magic shield",
+                "Icicle dirk"
+            ]
+        },
+        {
+            "name": "Leather shield",
+            "recipe": [
+                "Pot lid",
+                "Magic beast hide"
+            ]
+        },
+        {
+            "name": "Magic shield",
+            "recipe": [
+                "Steel shield",
+                "Prayer ring",
+                "Ruby of protection"
+            ]
+        },
+        {
+            "name": "Metal king shield",
+            "recipe": [
+                "Ruinous shield",
+                "Saint's ashes",
+                "Orichalcum"
+            ]
+        },
+        {
+            "name": "Power shield",
+            "recipe": [
+                "Magic shield",
+                "Strength ring",
+                "Cured cheese"
+            ]
+        },
+        {
+            "name": "Ruinous shield",
+            "recipe": [
+                "Metal king shield",
+                "Devil's tail"
+            ]
+        },
+        {
+            "name": "Saintess shield",
+            "recipe": [
+                "Mirror shield",
+                "White shield",
+                "Holy water"
+            ]
+        },
+        {
+            "name": "Scale shield",
+            "recipe": [
+                "Leather shield",
+                "Dragon's scale"
+            ]
+        },
+        {
+            "name": "Silver shield",
+            "recipe": [
+                "Mirror shield",
+                "Amor seco essence",
+                "Magic water"
+            ]
+        },
+        {
+            "name": "Templar's shield",
+            "recipe": [
+                "Iron shield",
+                "Templar's uniform"
+            ]
+        },
+        {
+            "name": "Thanatos' shield",
+            "recipe": [
+                "Goddess shield",
+                "Devil's tail"
+            ]
+        },
+        {
+            "name": "White shield",
+            "recipe": [
+                "Light shield",
+                "Fresh milk",
+                "Fresh milk",
+                "Iron shield",
+                "Silver platter"
+            ]
+        }
+    ],
+    "Headgear": [
+        {
+            "name": "Bronze helmet",
+            "recipe": [
+                "Stone hardhat",
+                "Bronze knife",
+                "Bronze knife"
+            ]
+        },
+        {
+            "name": "Bunny ears",
+            "recipe": [
+                "Hairband",
+                "Bunny tail"
+            ]
+        },
+        {
+            "name": "Feathered cap",
+            "recipe": [
+                "Leather hat",
+                "Chimaera wing"
+            ]
+        },
+        {
+            "name": "Fur hood",
+            "recipe": [
+                "Feathered cap",
+                "Fur poncho"
+            ]
+        },
+        {
+            "name": "Golden tiara",
+            "recipe": [
+                "Thinking cap",
+                "Gold nugget",
+                "Silver tiara"
+            ]
+        },
+        {
+            "name": "Hades' helm",
+            "recipe": [
+                "Mythril helm",
+                "Devil's tail"
+            ]
+        },
+        {
+            "name": "Happy hat",
+            "recipe": [
+                "Feathered cap",
+                "Elevating shoes"
+            ]
+        },
+        {
+            "name": "Hermes' hat",
+            "recipe": [
+                "Feathered cap",
+                "Mercury's bandana"
+            ]
+        },
+        {
+            "name": "Mercury's bandana",
+            "recipe": [
+                "Bandana",
+                "Agility ring"
+            ]
+        },
+        {
+            "name": "Mythril helm",
+            "recipe": [
+                "Hades' helm",
+                "Saint's ashes"
+            ]
+        },
+        {
+            "name": "Phantom mask",
+            "recipe": [
+                "Iron headgear",
+                "Dark robe"
+            ]
+        },
+        {
+            "name": "Pointy hat",
+            "recipe": [
+                "Leather hat",
+                "Iron nail"
+            ]
+        },
+        {
+            "name": "Raging bull helm",
+            "recipe": [
+                "Mythril helm",
+                "Cowpat",
+                "Fresh milk"
+            ]
+        },
+        {
+            "name": "Scholar's cap",
+            "recipe": [
+                "Magical hat",
+                "Scholar's specs"
+            ]
+        },
+        {
+            "name": "Silver tiara",
+            "recipe": [
+                "Coral hairpin",
+                "Silver platter"
+            ]
+        },
+        {
+            "name": "Skull helm",
+            "recipe": [
+                "Sun crown",
+                "Devil's tail"
+            ]
+        },
+        {
+            "name": "Stone hardhat",
+            "recipe": [
+                "Stone axe",
+                "Pointy hat"
+            ]
+        },
+        {
+            "name": "Sun crown",
+            "recipe": [
+                "Skull helm",
+                "Saint's ashes"
+            ]
+        },
+        {
+            "name": "Thinking cap",
+            "recipe": [
+                "Scholar's cap",
+                "Iron headgear"
+            ]
+        },
+        {
+            "name": "Turban",
+            "recipe": [
+                "Bandana",
+                "Bandana"
+            ]
+        }
+    ],
+    "Accessory": [
+        {
+            "name": "Agility ring",
+            "recipe": [
+                "Prayer ring",
+                "Seed of agility"
+            ]
+        },
+        {
+            "name": "Catholicon ring",
+            "recipe": [
+                "Full moon ring",
+                "Ring of truth",
+                "Ring of immunity"
+            ]
+        },
+        {
+            "name": "Life bracer",
+            "recipe": [
+                "Recovery ring",
+                "Gold bracer"
+            ]
+        },
+        {
+            "name": "Elevating shoes",
+            "recipe": [
+                "Fishnet stockings",
+                "Happy hat"
+            ]
+        },
+        {
+            "name": "Full moon ring",
+            "recipe": [
+                "Gold ring",
+                "Poison moth knife"
+            ]
+        },
+        {
+            "name": "Goddess ring",
+            "recipe": [
+                "Recovery ring",
+                "Orichalcum"
+            ]
+        },
+        {
+            "name": "Holy talisman",
+            "recipe": [
+                "Tough guy tattoo",
+                "Holy water",
+                "Gold rosary"
+            ]
+        },
+        {
+            "name": "Meteorite bracer",
+            "recipe": [
+                "Agility ring",
+                "Agility ring",
+                "Orichalcum"
+            ]
+        },
+        {
+            "name": "Mighty armlet",
+            "recipe": [
+                "Strength ring",
+                "Titan belt"
+            ]
+        },
+        {
+            "name": "Prayer ring",
+            "recipe": [
+                "Gold ring",
+                "Seed of magic"
+            ]
+        },
+        {
+            "name": "Recovery ring",
+            "recipe": [
+                "Prayer ring",
+                "Seed of life"
+            ]
+        },
+        {
+            "name": "Ring of awakening",
+            "recipe": [
+                "Gold ring",
+                "Dream blade"
+            ]
+        },
+        {
+            "name": "Ring of clarity",
+            "recipe": [
+                "Gold ring",
+                "Fallen angel rapier"
+            ]
+        },
+        {
+            "name": "Ring of truth",
+            "recipe": [
+                "Gold ring",
+                "Sandstorm spear"
+            ]
+        },
+        {
+            "name": "Ring of immunity",
+            "recipe": [
+                "Gold ring",
+                "Poison needle"
+            ]
+        },
+        {
+            "name": "Ruby of protection",
+            "recipe": [
+                "Prayer ring",
+                "Seed of resilience"
+            ]
+        },
+        {
+            "name": "Scholar's specs",
+            "recipe": [
+                "Ring of awakening",
+                "Ring of clarity",
+                "Seed of wisdom"
+            ]
+        },
+        {
+            "name": "Skull ring",
+            "recipe": [
+                "Sorcerer's ring",
+                "Devil's tail"
+            ]
+        },
+        {
+            "name": "Sorcerer's ring",
+            "recipe": [
+                "Skull ring",
+                "Saint's ashes",
+                "Saint's ashes"
+            ]
+        },
+        {
+            "name": "Strength ring",
+            "recipe": [
+                "Prayer ring",
+                "Seed of strength"
+            ]
+        },
+        {
+            "name": "Titan belt",
+            "recipe": [
+                "Leather kilt",
+                "Strength ring"
+            ]
+        }
+    ],
+    "Cheese": [
+        {
+            "name": "Angel cheese",
+            "recipe": [
+                "Fresh milk",
+                "Premium mould",
+                "Yggdrasil dew"
+            ]
+        },
+        {
+            "name": "C-c-cold cheese",
+            "recipe": [
+                "Dragon dung",
+                "Cold cheese",
+                "Premium mould"
+            ]
+        },
+        {
+            "name": "Chilly cheese",
+            "recipe": [
+                "Cool cheese",
+                "Waterweed mould"
+            ]
+        },
+        {
+            "name": "Chunky cheese",
+            "recipe": [
+                "Plain cheese",
+                "Magic water"
+            ]
+        },
+        {
+            "name": "Cold cheese",
+            "recipe": [
+                "Chilly cheese",
+                "Waterweed mould",
+                "Waterweed mould"
+            ]
+        },
+        {
+            "name": "Cool cheese",
+            "recipe": [
+                "Plain cheese",
+                "Waterweed mould"
+            ]
+        },
+        {
+            "name": "Cured cheese",
+            "recipe": [
+                "Fresh milk",
+                "Premium mould",
+                "Amor seco essence"
+            ]
+        },
+        {
+            "name": "Hard cheese",
+            "recipe": [
+                "Plain cheese",
+                "Rock salt"
+            ]
+        },
+        {
+            "name": "Highly-strung cheese",
+            "recipe": [
+                "Super spicy cheese",
+                "Cold cheese",
+                "Rock salt"
+            ]
+        },
+        {
+            "name": "Mild cheese",
+            "recipe": [
+                "Plain cheese",
+                "Amor seco essence"
+            ]
+        },
+        {
+            "name": "Plain cheese",
+            "recipe": [
+                "Fresh milk",
+                "Rennet powder",
+                "Scorching cheese",
+                "C-c-cold cheese"
+            ]
+        },
+        {
+            "name": "Scorching cheese",
+            "recipe": [
+                "Super spicy cheese",
+                "Premium mould",
+                "Dragon dung"
+            ]
+        },
+        {
+            "name": "Soft cheese",
+            "recipe": [
+                "Fresh milk",
+                "Rennet powder",
+                "Rock salt"
+            ]
+        },
+        {
+            "name": "Spicy cheese",
+            "recipe": [
+                "Plain cheese",
+                "Red mould"
+            ]
+        },
+        {
+            "name": "Super spicy cheese",
+            "recipe": [
+                "Spicy cheese",
+                "Nook grass",
+                "Spicy cheese",
+                "Red mould",
+                "Red mould"
+            ]
+        }
+    ],
+    "Medicine": [
+        {
+            "name": "Amor seco essence",
+            "recipe": [
+                "Holy water",
+                "Strong medicine"
+            ]
+        },
+        {
+            "name": "Elfin elixir",
+            "recipe": [
+                "Yggdrasil dew",
+                "Magic water"
+            ]
+        },
+        {
+            "name": "Greater panacea",
+            "recipe": [
+                "Special medicine",
+                "Special medicine",
+                "Special medicine",
+                "Lesser panacea",
+                "Rose-root",
+                "Rose-wort"
+            ]
+        },
+        {
+            "name": "Lesser panacea",
+            "recipe": [
+                "Special medicine",
+                "Special medicine"
+            ]
+        },
+        {
+            "name": "Magic water",
+            "recipe": [
+                "Holy water",
+                "Seed of magic"
+            ]
+        },
+        {
+            "name": "Moon's mercy",
+            "recipe": [
+                "Moonwort bulb",
+                "Moonwort bulb",
+                "Moonwort bulb"
+            ]
+        },
+        {
+            "name": "Rose-root",
+            "recipe": [
+                "Medicinal herb",
+                "Medicinal herb",
+                "Medicinal herb",
+                "Strong medicine",
+                "Medicinal herb"
+            ]
+        },
+        {
+            "name": "Rose-wort",
+            "recipe": [
+                "Medicinal herb",
+                "Medicinal herb",
+                "Moonwort bulb",
+                "Strong medicine",
+                "Moonwort bulb"
+            ]
+        },
+        {
+            "name": "Special antidote",
+            "recipe": [
+                "Medicinal herb",
+                "Antidotal herb",
+                "Antidotal herb",
+                "Strong antidote",
+                "Strong antidote"
+            ]
+        },
+        {
+            "name": "Strong antidote",
+            "recipe": [
+                "Medicinal herb",
+                "Antidotal herb"
+            ]
+        },
+        {
+            "name": "Strong medicine",
+            "recipe": [
+                "Medicinal herb",
+                "Medicinal herb"
+            ]
+        },
+        {
+            "name": "Special medicine",
+            "recipe": [
+                "Strong medicine",
+                "Strong medicine"
+            ]
+        },
+        {
+            "name": "Yggdrasil dew",
+            "recipe": [
+                "Yggdrasil leaf",
+                "Magic water"
+            ]
+        }
+    ],
+    "Other objects": [
+        {
+            "name": "Chimaera wing",
+            "recipe": [
+                "Wing of bat",
+                "Wing of bat"
+            ]
+        },
+        {
+            "name": "Holy water",
+            "recipe": [
+                "Amor seco essence",
+                "Rock salt"
+            ]
+        },
+        {
+            "name": "Mystifying mixture",
+            "recipe": [
+                "Holy water",
+                "Wing of bat",
+                "Cowpat",
+                "Medicinal herb",
+                "Antidotal herb",
+                "Moonwort bulb"
+            ]
+        },
+        {
+            "name": "Premium mould",
+            "recipe": [
+                "Red mould",
+                "Waterweed mould",
+                "Yggdrasil leaf"
+            ]
+        },
+        {
+            "name": "Sage's stone",
+            "recipe": [
+                "Gold nugget",
+                "Orichalcum",
+                "Yggdrasil dew"
+            ]
+        },
+        {
+            "name": "Thief's Key",
+            "recipe": [
+                "Iron nail",
+                "Bronze knife"
+            ]
+        },
+        {
+            "name": "Timbrel of tension",
+            "recipe": [
+                "Sun crown",
+                "Magic beast hide",
+                "Tough guy tattoo"
+            ]
+        }
+    ]
+}
