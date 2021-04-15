@@ -23,4 +23,4 @@ App para auxiliar o jogador durante sua campanha no jogo Dragon Quest VIII.
 
 ## App
 
-![App](https://imgur.com/a/TXT9asA)
+![App](https://media.giphy.com/media/AlpfN5Kx2oDP5qoiKl/giphy.gif)
